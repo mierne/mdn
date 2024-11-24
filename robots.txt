@@ -1,0 +1,4 @@
+# i HATE robots!
+
+User-agent: *
+Disallow: /
